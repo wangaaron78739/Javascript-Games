@@ -2,9 +2,9 @@
 
 Just a couple of simple games I've made in Javascript
 
-Completed
+Completed:
 Flappy Birds
 Astroids
 Snake
 
-(WIP)
+WIP:
